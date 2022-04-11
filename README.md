@@ -5,7 +5,7 @@
 - [GenerOS](#generos)
 - [Gene](#gene)
   - [Genes](#gene>genes)
-  - [Gene Pools (gpools)](#gene>gpools)
+  - [Gene Pools (gpools)](#gene>genepools)
   - [generATE (generOS Automated Toolkit Extension)](#gene>generate)
 - [generIC (generOS Installation Creation Tool)](#generic)
 
